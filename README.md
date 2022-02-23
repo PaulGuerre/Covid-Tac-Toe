@@ -1,5 +1,5 @@
 <h1>Covid-Tac-Toe</h1>
-<p>Classic Tic Tac Toe game, but based on the current health situation (well, in 2022)</p>
+<p>S6 Project : classic Tic Tac Toe game, but based on the current health situation (well, in 2022)</p>
 <br />
 
 <p align="center">
