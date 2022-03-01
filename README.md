@@ -1,11 +1,5 @@
 <h1>Covid-Tac-Toe</h1>
 <p>S6 Project : classic Tic Tac Toe game, but based on the current health situation (well, in 2022)</p>
-
-<li> Contributors :
-  <ul><a href="https://github.com/drisslesioniste">Leo Avril</a></ul>
-  <ul><a href="https://github.com/Paulobergine">Paul Guerre</a></ul>
-  <ul><a href="https://github.com/willhespoir">William Hope</a></ul> 
-</li>
 <br />
 
 <p align="center">
@@ -24,3 +18,9 @@
   <img align="center" src="https://user-images.githubusercontent.com/56794631/155423443-edbba69f-f02a-4e64-8d10-60ce81b58494.png" />
 </p>
 <p align="center">Results screen</>
+  
+<li> Contributors :
+  <ul><a href="https://github.com/drisslesioniste">Leo Avril</a></ul>
+  <ul><a href="https://github.com/Paulobergine">Paul Guerre</a></ul>
+  <ul><a href="https://github.com/willhespoir">William Hope</a></ul> 
+</li>
