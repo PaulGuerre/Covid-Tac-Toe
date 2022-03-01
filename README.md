@@ -1,7 +1,7 @@
 <h1>Covid-Tac-Toe</h1>
 <p>S6 Project : classic Tic Tac Toe game, but based on the current health situation (well, in 2022)</p>
 
-<li align="center"> Contributors :
+<li> Contributors :
   <ul><a href="https://github.com/drisslesioniste">Leo Avril</a></ul>
   <ul><a href="https://github.com/Paulobergine">Paul Guerre</a></ul>
   <ul><a href="https://github.com/willhespoir">William Hope</a></ul> 
